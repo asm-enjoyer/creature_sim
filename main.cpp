@@ -221,7 +221,7 @@ int main ()
         return 1;
     }
 
-    pop_sound = LoadSound("pop_sound.mp3");
+    pop_sound = LoadSound("my_pop_sound.mp3");
 
     std::vector<Creature*> creatures;
 
